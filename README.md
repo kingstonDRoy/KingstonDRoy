@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kingston Teffy Roy D</h1>
 <h3 align="center">Student MSc Data Science, AI and Digital Business</h3>
-img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fwhat-type-of-a-data-scientist-are-you%2F&psig=AOvVaw2v09G7e2djdAV8NLBJ3MrV&ust=1691871860519000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj96Pu31YADFQAAAAAdAAAAABAE”
+<img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fwhat-type-of-a-data-scientist-are-you%2F&psig=AOvVaw2v09G7e2djdAV8NLBJ3MrV&ust=1691871860519000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj96Pu31YADFQAAAAAdAAAAABAE”>
 
 <p align="left"> <a href="https://twitter.com/kingstondroy" target="blank"><img src="https://img.shields.io/twitter/follow/kingstondroy?logo=twitter&style=for-the-badge" alt="kingstondroy" /></a> </p>
 
