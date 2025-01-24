@@ -1,6 +1,6 @@
 ![Header](./your-header-image-name.png)
 
-<h1 align="center">Hi 👋, I'm Kingston Teffy Roy D</h1>
+<h1 align="center">KingzGeek D</h1>
 <h3 align="center">Student MSc Data Science, AI and Digital Business</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
