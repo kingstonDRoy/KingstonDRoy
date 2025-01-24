@@ -4,7 +4,7 @@
 <h4 align="center">My Tech Stuffs Here!!</h4>
 
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m Currently Drowning into the world of **Data Science**
 
 
 - 💬 Ask me about **Python**
