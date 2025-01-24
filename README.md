@@ -1,7 +1,6 @@
-![Header](./your-header-image-name.png)
 
 <h1 align="center">KingzGeek </h1>
-<h3 align="center">Kingston Teffy Roy D</h3>
+<h3 align="center">(DO What You Can't)</h3>
 <h4 align="center">My Tech Stuffs Here!!</h4>
 
 
