@@ -3,9 +3,7 @@
 <h3 align="center">(DO What You Can't)</h3>
 <h4 align="center">My Tech Stuffs Here!!</h4>
 
-<p align="center">
-  <img src="[https://example.com/your-image-or-gif.gif" alt="Tech Stuff](https://images.app.goo.gl/9iWAQYgLQnnRubnp7)" width="500"/>
-</p>
+
 
 
 - 🌱 I’m Currently Drowning into the world of **Data Science**
