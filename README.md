@@ -1,7 +1,9 @@
 ![Header](./your-header-image-name.png)
 
-<h1 align="center">KingzGeek D</h1>
-<h3 align="center">Student MSc Data Science, AI and Digital Business</h3>
+<h1 align="center">KingzGeek </h1>
+<h3 align="center">Kingston Teffy Roy D</h3>
+<h4 align="center">My Tech Stuffs Here!!</h4>
+
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
