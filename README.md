@@ -7,11 +7,11 @@
 - 🌱 I’m Currently Drowning into the world of **Data Science**
 
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **TECH | TEACHING | MUSIC**
 
 - 📫 How to reach me **kingstondroy@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kingstonteffyroy/](https://www.linkedin.com/in/kingstonteffyroy/)
+- 📄 My Professional Part: [https://www.linkedin.com/in/kingstonteffyroy/](https://www.linkedin.com/in/kingstonteffyroy/)
 
 - ⚡ Fun fact **I'm stuck in a loop of learning**
 
