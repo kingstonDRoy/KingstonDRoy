@@ -4,11 +4,10 @@
 <h3 align="center">Student MSc Data Science, AI and Digital Business</h3>
 <img align="right" alt="Coding" width="400" src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fanalyticsindiamag.com%2Fwhat-type-of-a-data-scientist-are-you%2F&psig=AOvVaw2v09G7e2djdAV8NLBJ3MrV&ust=1691871860519000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMj96Pu31YADFQAAAAAdAAAAABAE](https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif)”>
 
-<p align="left"> <a href="https://twitter.com/kingstondroy" target="blank"><img src="https://img.shields.io/twitter/follow/kingstondroy?logo=twitter&style=for-the-badge" alt="kingstondroy" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 📝 I regularly write articles on [https://www.youtube.com/channel/UCpg4C38r1QfRG-KBQKKb-Pg/playlists?app=desktop](https://www.youtube.com/channel/UCpg4C38r1QfRG-KBQKKb-Pg/playlists?app=desktop)
 
 - 💬 Ask me about **Python**
 
