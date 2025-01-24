@@ -1,5 +1,6 @@
-![cool GIF](https://github.com/kingstonDRoy/Kingz-Geek/blob/main/JIM%20.gif?raw=true)
-
+<p align="center">
+  <img src="https://github.com/kingstonDRoy/Kingz-Geek/blob/main/JIM%20.gif?raw=true" alt="cool GIF" width="300"/>
+</p>
 
 <h1 align="center">KingzGeek </h1>
 <h3 align="center">(DO What You Can't)</h3>
